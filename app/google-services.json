@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830872807791",
+    "project_id": "qloron-11383",
+    "storage_bucket": "qloron-11383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830872807791:android:cf977deb23cecc6b07609a",
+        "android_client_info": {
+          "package_name": "com.codebele.qlorontask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830872807791-8eun4duhu8nrheshl5jtkhis129ff48n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjx6-HYofBv38ORC9knoora-eYTzj_LfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830872807791-8eun4duhu8nrheshl5jtkhis129ff48n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
